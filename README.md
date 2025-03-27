@@ -1,4 +1,4 @@
-# Dynamic Layer Regularization (DyLR)
+# Elementwise Layer Normalization (ELN)
 
 
 ## 1. Preparation
@@ -7,8 +7,8 @@
 
 ```
 # e.g. using conda
-conda create -n dylr python=3.11
-conda activate dylr
+conda create -n eln python=3.11
+conda activate eln
 ```
 
 #### Install Dependencies
@@ -25,4 +25,4 @@ pip install numpy scipy matplotlib scienceplots jupyter
 jupyter notebook
 ```
 
-The notebook `DyLR.ipynb` can be used to reproduce the data, results and figures from the paper. 
+The notebook `ELN.ipynb` can be used to reproduce the data, results and figures from the paper. 
