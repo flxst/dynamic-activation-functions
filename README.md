@@ -1,5 +1,6 @@
 # Elementwise Layer Normalization (ELN)
 
+This repository contains code to reproduce results from the paper https://arxiv.org/abs/2503.21708.
 
 ## 1. Preparation
 
