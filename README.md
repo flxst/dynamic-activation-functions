@@ -1,4 +1,4 @@
-# Elementwise Layer Normalization (ELN)
+# Dynamic Activation Functions
 
 This repository contains code to reproduce results from the paper https://arxiv.org/abs/2503.21708.
 
@@ -8,8 +8,8 @@ This repository contains code to reproduce results from the paper https://arxiv.
 
 ```
 # e.g. using conda
-conda create -n eln python=3.11
-conda activate eln
+conda create -n dyaf python=3.11
+conda activate dyaf
 ```
 
 #### Install Dependencies
@@ -26,4 +26,4 @@ pip install numpy scipy matplotlib scienceplots jupyter
 jupyter notebook
 ```
 
-The notebook `ELN.ipynb` can be used to reproduce the data, results and figures from the paper. 
+The notebook `Dynamic_Activation_Functions.ipynb` can be used to reproduce the data, results and figures from the paper. 
